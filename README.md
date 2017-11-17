@@ -39,6 +39,11 @@ My item catalog project from earlier: [Music Store](https://github.com/Christhul
 
 Instructions
 ============================
+
+Make an SSH key: (I used puttygen and putty since I'm on windows)
+there's also a key generator using openssh that people sometimes like
+Save the public and the private keys, because you're going to copy the public key in your authorized_keys file on your server
+
 Create a new user named `grader` and give them sudo permissions
 
 Allow user to ssh using same keypair as ubuntu(default login for aws):
