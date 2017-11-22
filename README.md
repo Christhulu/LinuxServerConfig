@@ -102,12 +102,12 @@ Set password to what you want, I chose catalog
 
 Python Modules to install
 =========================
-`sudo apt-get install python-psycopg2 python-flask
-sudo apt-get install python-sqlalchemy python-pip
-sudo pip install oauth2client
-sudo pip install requests
-sudo pip install httplib2
-sudo pip install flask-seasurf`
+`sudo apt-get install python-psycopg2 python-flask`
+`sudo apt-get install python-sqlalchemy python-pip`
+`sudo pip install oauth2client`
+`sudo pip install requests`
+`sudo pip install httplib2`
+`sudo pip install flask-seasurf`
 
 
 The app
